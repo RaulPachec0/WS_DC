@@ -4,7 +4,7 @@ filename: step1.py
 author: Raul Pacheco
 email: rpacheco5000@gmail.com
 created: 2025-04-13
-modified: 2025-04-13
+modified: 2025-04-14
 description: Pulls and cleans data from Cagematch.com
 
 '''
